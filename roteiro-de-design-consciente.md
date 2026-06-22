@@ -1,8 +1,8 @@
 # Roteiro de Design Consciente
 ### Sistema de Apoio à Decisão (SAD) para o Desenvolvimento de Jogos Psicologicamente Seguros
 
-Isaac Wanderson de Pontes Xavier — Orientador: Prof. Fabricio Carneiro Costa
-Centro Universitário Paraíso (UniFAP) — Sistemas de Informação — Juazeiro do Norte, 2026
+Isaac Wanderson de Pontes Xavier - Orientador: Prof. Fabricio Carneiro Costa
+Centro Universitário Paraíso (UniFAP) - Sistemas de Informação — Juazeiro do Norte, 2026
 
 ---
 
